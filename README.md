@@ -1,4 +1,4 @@
-# Selenium Form Project
+# Selenium Form Project (MySkill Project 2)
 
 ## Selenium Form 1: Parabank Register Form
 Test Case 1: Register the username successfully <br />
